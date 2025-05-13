@@ -1,6 +1,6 @@
 ## ~* 99 bottles of beer on the wall *~ ##
 # I want to add that this file is not completed
-# You sho
+# You should do this better!
 # Imports the time module to pause before each line output
 import time
 
