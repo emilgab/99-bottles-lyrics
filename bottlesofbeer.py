@@ -1,5 +1,5 @@
 ## ~* 99 bottles of beer on the wall *~ ##
-# This is just a test, remove me!
+
 # Imports the time module to pause before each line output
 import time
 
